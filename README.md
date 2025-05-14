@@ -1,6 +1,8 @@
 # Fix-remote-desktop
 How to fix remote desktop can't connect to remote computer for one of these reason ! 
+
 ![Image](https://github.com/user-attachments/assets/292ea7cb-39c5-4e21-a45f-7f467aaf09d8)
+
 Step 1 : sudo apt install xfce4
 
 ![Image](https://github.com/user-attachments/assets/527b8d2e-eb11-4111-96ad-6c140b075566)
